@@ -1,1 +1,2 @@
-[![moon](https://iconarchive.com/download/i80466/uiconstock/socialmedia/Linkedin.ico)](https://linkedin.com/in/aaronmamparo)
+- [linkedin](https://linkedin.com/in/aaronmamparo)
+- [pypi](https://pypi.org/user/amamparo/)
